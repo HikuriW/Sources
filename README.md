@@ -7,7 +7,7 @@
 - 🟠 = In Development / Fixing.
 - 🔴 = Patched / Abandoned.
 
-### 🟢 Arise Crossover:
+### 🟢 | Arise Crossover:
 ```lua
 shared.RaidTypes = {"WinterIsland","JejuIsland"};
 shared.SearchRaids = true; -- // Dont touch unless ur not an idiot.
