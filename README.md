@@ -2,7 +2,7 @@
 - This is where I will host most of the scripts that are either unrelated / serverhop scripts.
 
 ## ⚠️ Status:
-- Some scripts that are unrealted might be outdated overtime.
+##### Some scripts that are unrealted might be outdated overtime.
 - 🟢 = Still Working.
 - 🟠 = In Development / Fixing.
 - 🔴 = Patched / Abandoned.
