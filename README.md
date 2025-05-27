@@ -9,12 +9,12 @@
 
 ### 🟢 Arise Crossover:
 ```lua
--- // Made by @hikari_kuroi~
 shared.RaidTypes = {"WinterIsland","JejuIsland"};
 shared.SearchRaids = true; -- // Dont touch unless ur not an idiot.
 shared.WaitHikrui = true; -- // Executes after loading UI.
 shared.Timer = 1.15;
 
+-- // Made by @hikari_kuroi~
 loadstring(game:HttpGet("https://raw.githubusercontent.com/HikuriW/Main/home/Resources/ACEventFinder.lua"))();
 ```
 
