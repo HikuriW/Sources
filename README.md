@@ -9,7 +9,7 @@
 
 ### 🟢 Arise Crossover:
 ```lua
-  -- // Made by @hikari_kuroi~
+-- // Made by @hikari_kuroi~
 shared.RaidTypes = {"WinterIsland","JejuIsland"};
 shared.SearchRaids = true; -- // Dont touch unless ur not an idiot.
 shared.WaitHikrui = true; -- // Executes after loading UI.
