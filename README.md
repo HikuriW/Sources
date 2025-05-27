@@ -1,13 +1,13 @@
 # 📜 Sources
 - This is where I will host most of the scripts that are either unrelated / serverhop scripts.
 
-## ⚠️ [Status]:
+## ⚠️ Status:
 - Some scripts that are unrealted might be outdated overtime.
 - 🟢 = Still Working.
 - 🟠 = In Development / Fixing.
 - 🔴 = Patched / Abandoned.
 
-## 🟢 [Arise Crossover]:
+### 🟢 [Arise Crossover]:
 ```lua
   -- // Made by @hikari_kuroi~
 shared.RaidTypes = {"WinterIsland","JejuIsland"};
@@ -18,5 +18,5 @@ shared.Timer = 1.15;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/HikuriW/Main/home/Resources/ACEventFinder.lua"))();
 ```
 
-- All the scripts were created by @hikari_kuroi (Discord).
-- Report any problems by creating an issue or dming me on discord.
+#### All the scripts were created by @hikari_kuroi (Discord).
+#### Report any problems by creating an issue or dming me on discord.
